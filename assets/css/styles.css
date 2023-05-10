@@ -306,8 +306,8 @@ img {
 }
 
 .home__blob-img {
-  width: 200px;
-  border-radius: 50%;
+  width: 300px;
+  border-radius: 10%;
 }
 
 
